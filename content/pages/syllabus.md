@@ -59,13 +59,84 @@ Class participation will be determined on the basis of your attendance, punctual
 4.  Do the comments show clear evidence of appropriate and insightful analysis of the case?
 5.  Is there a willingness to participate?
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| {{< td-colspan 2 >}}**Individual Work**{{< /td-colspan >}} ||
-| Class participation | 20% |
-| Book review: _The Goal_ | 10% |
-| Homework assignments | 10% |
-| Three "quick" case analyses | 15% |
-| {{< td-colspan 2 >}}**Group Work (Maximum Team Size = 3)**{{< /td-colspan >}} ||
-| Two "deep" case analyses | 25% |
-| Simulation games and reports | 20%
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen colspan="2" >}}
+**Individual Work**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Class participation
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Book review: _The Goal_
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Homework assignments
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Three "quick" case analyses
+{{< tdclose >}}
+{{< tdopen >}}
+15%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="2" >}}
+**Group Work (Maximum Team Size = 3)**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Two "deep" case analyses
+{{< tdclose >}}
+{{< tdopen >}}
+25%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Simulation games and reports
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

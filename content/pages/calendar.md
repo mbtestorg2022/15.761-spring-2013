@@ -6,35 +6,405 @@ uid: aefee891-6cb9-63b2-0502-9a0311932508
 
 Note: The due dates for the "quick" and "deep" case analyses only apply if a student chooses to write about the case discussed in that session. See the [Assignments]({{< baseurl >}}/pages/assignments) section for further details.
 
-| SES OR TUTORIAL # | TOPICS | KEY DATES |
-| --- | --- | --- |
-| 1 | Introduction and class overview | &nbsp; |
-| 2 | McDonald's and Burger King cases | &nbsp; |
-| 3 | Capacity I: Capacity analysis & queuing | &nbsp; |
-| T1 | Review of Capacity I | &nbsp; |
-| 4 | _The Goal_ | Book report due |
-| 5 | Capacity II: Process re-engineering + CVS case |  {{< br >}}{{< br >}} Queuing homework due {{< br >}}{{< br >}} Quick case analysis due {{< br >}}{{< br >}}  |
-| T2 | Review of Capacity II | &nbsp; |
-| 6 | PATA case | Deep case analysis due |
-| 7 | Inventory I: EOQ & cycle stocks | &nbsp; |
-| T3 | Review of Inventory I | &nbsp; |
-| 8 | Supply chain strategy + HP DeskJet case | Deep case analysis due |
-| 9 | Inventory II: Newsvendor & safety stocks | &nbsp; |
-| T4 | Review of Inventory II | &nbsp; |
-| T5 | Introduction to Littlefield Technologies simulation exercise | &nbsp; |
-| 10 | Sport Obermeyer case | Deep case analysis due |
-| 11 | Toyota production system + Toyota case |  {{< br >}}{{< br >}} Inventory homework due {{< br >}}{{< br >}} Quick case analysis due {{< br >}}{{< br >}}  |
-| 12 | Apparel supply chains + Marks & Spencer and Zara Case | Quick case analysis due |
-| 13 | Amazon case | Quick case analysis due |
-| T6 | Introduction to retailer pricing simulation exercise | &nbsp; |
-| 14 |  {{< br >}}{{< br >}} Littlefield Technologies simulation game {{< br >}}{{< br >}} Guest Lecturer: James Miller, _[MIT Leaders for Global Operations](http://lgo.mit.edu/) (formerly Leaders for Manufacturing) 1993, Vice-President of Worldwide Operations for Google._ {{< br >}}{{< br >}}  | &nbsp; |
-| 15 | Littlefield Technologies simulation game | &nbsp; |
-| 16 | European recycling platform case | Quick case analysis due |
-| 17 | Operational risk management I | &nbsp; |
-| 18 | Quality management + Hank Kolb case | Quick case analysis due |
-| 19 | Operational risk management II + Wal-mart case | Quick case analysis due |
-| 20 | Revenue management I | &nbsp; |
-| T7 | Review of revenue management I | &nbsp; |
-| 21 | Revenue management II |  {{< br >}}{{< br >}} Retailer pricing simulation report due {{< br >}}{{< br >}} Quick case analysis due {{< br >}}{{< br >}}  |
-| 22 | Supply chain contracts + Barilla case | Quick case analysis due |
-| 23 | Course wrap-up | Littlefield Technologies simulation report due
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES OR TUTORIAL #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction and class overview
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+McDonald's and Burger King cases
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Capacity I: Capacity analysis & queuing
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+T1
+{{< tdclose >}}
+{{< tdopen >}}
+Review of Capacity I
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+_The Goal_
+{{< tdclose >}}
+{{< tdopen >}}
+Book report due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Capacity II: Process re-engineering + CVS case
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Queuing homework due
+
+Quick case analysis due
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+T2
+{{< tdclose >}}
+{{< tdopen >}}
+Review of Capacity II
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+PATA case
+{{< tdclose >}}
+{{< tdopen >}}
+Deep case analysis due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Inventory I: EOQ & cycle stocks
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+T3
+{{< tdclose >}}
+{{< tdopen >}}
+Review of Inventory I
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Supply chain strategy + HP DeskJet case
+{{< tdclose >}}
+{{< tdopen >}}
+Deep case analysis due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Inventory II: Newsvendor & safety stocks
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+T4
+{{< tdclose >}}
+{{< tdopen >}}
+Review of Inventory II
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+T5
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction to Littlefield Technologies simulation exercise
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Sport Obermeyer case
+{{< tdclose >}}
+{{< tdopen >}}
+Deep case analysis due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Toyota production system + Toyota case
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Inventory homework due
+
+Quick case analysis due
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Apparel supply chains + Marks & Spencer and Zara Case
+{{< tdclose >}}
+{{< tdopen >}}
+Quick case analysis due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Amazon case
+{{< tdclose >}}
+{{< tdopen >}}
+Quick case analysis due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+T6
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction to retailer pricing simulation exercise
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Littlefield Technologies simulation game
+
+Guest Lecturer: James Miller, _[MIT Leaders for Global Operations](http://lgo.mit.edu/) (formerly Leaders for Manufacturing) 1993, Vice-President of Worldwide Operations for Google._
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+Littlefield Technologies simulation game
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+European recycling platform case
+{{< tdclose >}}
+{{< tdopen >}}
+Quick case analysis due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+Operational risk management I
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+Quality management + Hank Kolb case
+{{< tdclose >}}
+{{< tdopen >}}
+Quick case analysis due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+Operational risk management II + Wal-mart case
+{{< tdclose >}}
+{{< tdopen >}}
+Quick case analysis due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+Revenue management I
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+T7
+{{< tdclose >}}
+{{< tdopen >}}
+Review of revenue management I
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+Revenue management II
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Retailer pricing simulation report due
+
+Quick case analysis due
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+Supply chain contracts + Barilla case
+{{< tdclose >}}
+{{< tdopen >}}
+Quick case analysis due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+Course wrap-up
+{{< tdclose >}}
+{{< tdopen >}}
+Littlefield Technologies simulation report due
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
