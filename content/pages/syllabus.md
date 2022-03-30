@@ -14,7 +14,7 @@ Tutorials: Approximately 2 sessions / month, 1.5 hours / session
 Prerequisites
 -------------
 
-[_15.060 Data, Models, and Decisions_](/courses/15-060-data-models-and-decisions-fall-2014/); [_6.041 Probabilistic Systems Analysis_](/courses/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/); or permission of the instructor.
+[_15.060 Data, Models, and Decisions_](/courses/15-060-data-models-and-decisions-fall-2014); [_6.041 Probabilistic Systems Analysis_](/courses/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010); or permission of the instructor.
 
 Course Objective
 ----------------
